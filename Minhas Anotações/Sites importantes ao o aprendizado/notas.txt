@@ -1,0 +1,23 @@
+Ola pessoas espero que estajam todos bem pela graça de Deus.
+
+
+Desde o meu progresso como estudante venho utilizando alguns sites recomendado por pessoas 
+com mais conhecimento na área, deste modo não trago so sites mais links para programas que vão 
+vos ajudar muito:
+
+
+1- Link para Baixar o Visual Studio Code
+
+https://code.visualstudio.com/download
+
+Nota: ele é um editor muito usado digo na minha opnião mais usado actualmente pelos 
+desenvolvedores.
+
+2- Link para Baixar o Git
+
+https://git-scm.com/downloads
+
+nota: é um terminal Gitbash que nos permite clonar os nossos repositorios do Github
+
+
+De momento é tudo pessoal, boas coisas virão.
