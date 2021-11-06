@@ -1,2 +1,9 @@
 # dio-desafio-git-github-primeiro-repositorio
-Desafio na criação de projetos no repositório
+
+Repositorio criado para desafios de projectos
+
+## Liks uteis
+
+(https://www.markdownguide.org/cheat-sheet/)
+
+
